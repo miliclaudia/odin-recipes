@@ -416,15 +416,9 @@ body {
 
         .social {
             display: flex;
-            /* flex-direction: column; */
             align-items: center;
             justify-content: center;
-            /* gap: 2px; */
         }
-
-        /* .fa {
-            font-size: 1px;
-        } */
 
         .icon {
             text-decoration: none !important;
